@@ -1,6 +1,4 @@
-class Enemy {
 
-}
 
 class Game {
     constructor(canvas) {
